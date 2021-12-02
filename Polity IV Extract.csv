@@ -1,0 +1,168 @@
+scode,country,polity2
+USA,United States,10
+CAN,Canada,10
+CUB,Cuba,-7
+HAI,Haiti,0
+DOM,Dominican Republic,8
+JAM,Jamaica,9
+TRI,Trinidad and Tobago,10
+MEX,Mexico,8
+GUA,Guatemala,8
+HON,Honduras,7
+SAL,El Salvador,8
+NIC,Nicaragua,9
+COS,Costa Rica,10
+PAN,Panama,9
+COL,Colombia,7
+VEN,Venezuela,4
+GUY,Guyana,7
+SUR,Suriname,5
+ECU,Ecuador,5
+PER,Peru,9
+BRA,Brazil,8
+BOL,Bolivia,7
+PAR,Paraguay,9
+CHL,Chile,10
+ARG,Argentina,9
+URU,Uruguay,10
+UKG,United Kingdom,10
+IRE,Ireland,10
+NTH,Netherlands,10
+BEL,Belgium,8
+LUX,Luxembourg,10
+FRN,France,9
+SWZ,Switzerland,10
+SPN,Spain,10
+POR,Portugal,10
+GMY,Germany,10
+POL,Poland,10
+AUS,Austria,10
+HUN,Hungary,10
+CZR,Czech Republic,9
+SLO,Slovak Republic,10
+ITA,Italy,10
+ALB,Albania,9
+KOS,Kosovo,8
+SER,Serbia,8
+MAC,Macedonia,9
+CRO,Croatia,9
+BOS,Bosnia,NA
+MNT,Montenegro,9
+SLV,Slovenia,10
+GRC,Greece,10
+CYP,Cyprus,10
+BUL,Bulgaria,9
+MLD,Moldova,9
+RUM,Romania,9
+RUS,Russia,4
+EST,Estonia,9
+LAT,Latvia,8
+LIT,Lithuania,10
+UKR,Ukraine,4
+BLR,Belarus,-7
+ARM,Armenia,5
+GRG,Georgia,7
+AZE,Azerbaijan,-7
+FIN,Finland,10
+SWD,Sweden,10
+NOR,Norway,10
+DEN,Denmark,10
+CAP,Cape Verde,10
+GNB,Guinea-Bissau,6
+EQG,Equatorial Guinea,-6
+GAM,Gambia,-5
+MLI,Mali,5
+SEN,Senegal,7
+BEN,Benin,7
+MAA,Mauritania,-2
+NIR,Niger,6
+IVO,Ivory Coast,4
+GUI,Guinea,4
+BFO,Burkina Faso,6
+LBR,Liberia,6
+SIE,Sierra Leone,7
+GHA,Ghana,8
+TOG,Togo,-2
+CAO,Cameroon,-4
+NIG,Nigeria,7
+GAB,Gabon,3
+CEN,Central African Republic,0
+CHA,Chad,-2
+CON,Congo Brazzaville,-4
+ZAI,Congo Kinshasa,5
+UGA,Uganda,-1
+KEN,Kenya,9
+TAZ,Tanzania,3
+BUI,Burundi,-1
+RWA,Rwanda,-3
+SOM,Somalia,5
+DJI,Djibouti,3
+SSU,South Sudan,0
+ETI,Ethiopia,-3
+ERI,Eritrea,-7
+ANG,Angola,-2
+MZM,Mozambique,5
+ZAM,Zambia,7
+ZIM,Zimbabwe,4
+MAW,Malawi,6
+SAF,South Africa,9
+NAM,Namibia,6
+LES,Lesotho,8
+BOT,Botswana,8
+SWA,Swaziland,-9
+MAG,Madagascar,6
+COM,Comoros,9
+MAS,Mauritius,10
+MOR,Morocco,-4
+ALG,Algeria,2
+TUN,Tunisia,7
+LIB,Libya,0
+SDN,Sudan-North,-4
+IRN,Iran,-7
+TUR,Turkey,3
+IRQ,Iraq,6
+EGY,Egypt,-4
+SYR,Syria,-9
+LEB,Lebanon,6
+JOR,Jordan,-3
+ISR,Israel,6
+SAU,Saudi Arabia,-10
+YEM,Yemen,0
+KUW,Kuwait,-7
+BAH,Bahrain,-10
+QAT,Qatar,-10
+UAE,UAE,-8
+OMA,Oman,-8
+AFG,Afghanistan,-1
+TKM,Turkmenistan,-8
+TAJ,Tajikistan,-3
+KYR,Kyrgyzstan,7
+UZB,Uzbekistan,-9
+KZK,Kazakhstan,-6
+CHN,China,-7
+MON,Mongolia,10
+TAW,Taiwan,10
+PRK,Korea North,-10
+ROK,Korea South,8
+JPN,Japan,10
+IND,India,9
+BHU,Bhutan,5
+PAK,Pakistan,7
+BNG,Bangladesh,1
+MYA,Myanmar (Burma),2
+SRI,Sri Lanka,6
+NEP,Nepal,6
+THI,Thailand,-3
+CAM,Cambodia,2
+LAO,Laos,-7
+VIE,Vietnam,-7
+MAL,Malaysia,5
+SIN,Singapore,-2
+PHI,Philippines,8
+INS,Indonesia,9
+ETM,East Timor,8
+AUL,Australia,10
+PNG,Papua New Guinea,5
+NEW,New Zealand,10
+SOL,Solomon Islands,8
+FJI,Fiji,2
